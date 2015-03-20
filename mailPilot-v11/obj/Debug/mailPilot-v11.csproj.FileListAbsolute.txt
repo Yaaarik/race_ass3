@@ -10,3 +10,9 @@ D:\Centennial college\4 Semester\Web game\Yarik\ass 3\mailPilot-v11-master\mailP
 D:\Centennial college\4 Semester\Web game\Yarik\ass 3\mailPilot-v11-master\mailPilot-v11\bin\CreateJS BoilerPlate.dll
 D:\Centennial college\4 Semester\Web game\Yarik\ass 3\mailPilot-v11-master\mailPilot-v11\bin\CreateJS BoilerPlate.pdb
 D:\Centennial college\4 Semester\Web game\Yarik\ass 3\mailPilot-v11-master\mailPilot-v11\obj\Debug\mailPilot-v11.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\race_ass3\mailPilot-v11\bin\CreateJS BoilerPlate.dll.config
+C:\Users\Administrator\Documents\GitHub\race_ass3\mailPilot-v11\bin\CreateJS BoilerPlate.dll
+C:\Users\Administrator\Documents\GitHub\race_ass3\mailPilot-v11\bin\CreateJS BoilerPlate.pdb
+C:\Users\Administrator\Documents\GitHub\race_ass3\mailPilot-v11\obj\Debug\mailPilot-v11.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\race_ass3\mailPilot-v11\obj\Debug\CreateJS BoilerPlate.dll
+C:\Users\Administrator\Documents\GitHub\race_ass3\mailPilot-v11\obj\Debug\CreateJS BoilerPlate.pdb
