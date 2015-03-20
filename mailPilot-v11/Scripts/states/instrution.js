@@ -32,7 +32,7 @@ var states;
         var gas;
         var car;
         var fireshot;
-        obstacle = new createjs.Sprite(managers.Assets.atlas, "obstacle");
+        obstacle = new createjs.Sprite(managers.Assets.atlas, "zomebie");
         gas = new createjs.Sprite(managers.Assets.atlas, "gas");
         car = new createjs.Sprite(managers.Assets.atlas, "car");
         fireshot = new createjs.Sprite(managers.Assets.atlas, "fireshot");
@@ -73,7 +73,7 @@ var states;
         game.addChild(fireshot);
         msgFire = new createjs.Text("Your special bullet. You can use this when you meet the boss bird\nShoot! and win!", "20px Maven Pro", "#000000");
         msgFire.x = (stage.canvas.width / 6) + 180;
-        msgFire.y = ((stage.canvas.height / 4) * 4) - 300;
+        msgFire.y = ((stage.canvas.height / 4) * 4) - 230;
         game.addChild(msgFire);
         // Display Play Again Button
         playButton = new objects.Button(stage.canvas.width / 2, 650, "playButton");
