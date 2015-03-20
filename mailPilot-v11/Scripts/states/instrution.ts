@@ -75,22 +75,22 @@ module states {
 
         // About bullet
         car.x = (stage.canvas.width / 6) - 100;
-        car.y = ((stage.canvas.height / 4) * 3) - 210;
+        car.y = ((stage.canvas.height / 4) * 4) - 230;
         game.addChild(car);
 
-        msgCar = new createjs.Text("Your bullet. You can kill the birds when click your balloon.\nShoot! and go go!", "20px Maven Pro", "#000000");
+        msgCar = new createjs.Text("Your car. You can kill zomebies when click your laswer.\nShoot! and go go!", "20px Maven Pro", "#000000");
         msgCar.x = (stage.canvas.width / 6) + 180;
-        msgCar.y = ((stage.canvas.height / 4) * 3) - 230;
+        msgCar.y = ((stage.canvas.height / 4) * 4) - 230;
         game.addChild(msgCar);
 
         // About bullet
         fireshot.x = (stage.canvas.width / 6) - 100;
-        fireshot.y = ((stage.canvas.height / 4) * 4) - 230;
+        fireshot.y = ((stage.canvas.height / 4) * 3) - 210;
         game.addChild(fireshot);
 
-        msgFire = new createjs.Text("Your special bullet. You can use this when you meet the boss bird\nShoot! and win!", "20px Maven Pro", "#000000");
+        msgFire = new createjs.Text("Your bullet. You can use this when you meet the zomebie\nShoot! and win!", "20px Maven Pro", "#000000");
         msgFire.x = (stage.canvas.width / 6) + 180;
-        msgFire.y = ((stage.canvas.height / 4) * 4) - 230;
+        msgFire.y = ((stage.canvas.height / 4) * 3) - 210;
         game.addChild(msgFire);
 
         // Display Play Again Button
